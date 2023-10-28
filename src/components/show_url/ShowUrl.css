@@ -1,0 +1,16 @@
+.show_url{
+    box-sizing: border-box;
+    height: 50px;
+    width: 600px;
+    border: 1px solid black;
+    margin-top: 20px;
+    padding: 10px;
+}
+
+.style_url{
+    font-size: 15px;
+}
+h4{
+    color:cornflowerblue;
+    font-weight: 600;
+}

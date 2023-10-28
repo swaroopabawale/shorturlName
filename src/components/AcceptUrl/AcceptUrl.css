@@ -1,0 +1,16 @@
+
+
+input{
+    height: 50px;
+    width: 600px;
+    font-size: 15px;
+}
+.btn{
+    all: unset;
+    color: white;
+    background-color: cornflowerblue;
+    padding:10px 25px;
+    border-radius: 5px;
+    margin-top: 10px;
+    cursor: pointer;
+}
